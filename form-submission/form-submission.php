@@ -84,7 +84,7 @@
           <br><br>
 		 <label for="Password">Password:</label>
 		<input type="Password" id="Password" name="Password">
-
+         </fieldset>
         </table>
           <br><br>
 		<input type="submit" value="Submit">
